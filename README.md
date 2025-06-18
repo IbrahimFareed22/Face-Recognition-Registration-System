@@ -41,5 +41,10 @@ Face-Recognition-Registration-System/
 3. Configure SQL Server
 4. Run register.py and attendance.py
 
-Author
-[Ibrahim Fareed](https://github.com/IbrahimFareed22)
+## About Me
+
+Author Ibrahim Fareed Mustafa
+
+[GitHub] (https://github.com/IbrahimFareed22)
+
+[LinkedIn] (https://linkedin.com/in/ibrahim-fareed-181127243)
